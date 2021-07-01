@@ -35,6 +35,10 @@ section{
     padding-bottom: 150px;
 }
 
+.top-margin{
+    margin-top: 50px;
+}
+
 .describe{
     margin-bottom: 30px;
 }
@@ -53,6 +57,7 @@ section{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+    margin-bottom: 100px;
 }
 
 .single-blog{
@@ -87,6 +92,7 @@ section{
 .ex{
     font-size: 35px;
     font-weight: bold;
+    text-align: center;
 }
 
 footer{
